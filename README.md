@@ -41,7 +41,7 @@ Navigate to project on your computer and install dependencies:
 
 ```sh
 yarn install
-```
+``` 
 
 start the development server:
 
